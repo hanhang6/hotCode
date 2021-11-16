@@ -1,0 +1,6 @@
+<apps>
+    <app>
+        <name>TestApplication1</name>
+        <file>com.hanhang.app.TestApplication1</file>
+    </app>
+</apps>
